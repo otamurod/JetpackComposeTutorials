@@ -11,6 +11,7 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import uz.otamurod.readingsms.model.SMSMessage
+import uz.otamurod.readingsms.model.parsedDate
 
 @Composable
 fun MessageView(
